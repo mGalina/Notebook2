@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="settings">Настройки</string>
+    <string name="notebook">Записная книжка</string>
+    <string name="open_notebook">Отркыть записную книжку</string>
+    <string name="save">Соханить</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="exit">Выход</string>
+</resources>
